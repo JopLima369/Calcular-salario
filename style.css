@@ -1,0 +1,40 @@
+body{
+    font-family: Arial, sans-serif;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    margin: 0;
+    background-color: #f0f0f0;
+}
+.conteiner{
+    text-align: center;
+    background-color: white;
+    padding: 20px;
+    border-radius: 8px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    width: 300px;
+}
+#turno{
+    padding: 5px;
+    width: 100px;
+    text-align: center;
+}
+input{
+    margin-top: 10px;
+    padding: 8px;
+    width: 150px;
+    text-align: center;
+}
+button{
+    margin-top: 10px;
+    padding: 8px 15px;
+    cursor: pointer;
+}
+#resultado{
+    margin-top: 15px;
+    font-weight: bold;
+}
+#resultado{
+    padding: 10px
+}
